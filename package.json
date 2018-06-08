@@ -5,6 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "electron": "^2.0.2",
+    "ethereum-client-binaries": "^1.6.4",
     "meteor-build-client": "^0.4.1",
     "node-less": "^1.0.0"
   },

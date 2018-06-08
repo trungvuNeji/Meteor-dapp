@@ -5,5 +5,5 @@ packages/
 app/public/i18n/*.json
 app/.meteor/dev_bundle
 node_modules
-app/.electrify/
-app/.meteor/
+app/.electrify
+app/.meteor
